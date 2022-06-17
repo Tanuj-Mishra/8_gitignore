@@ -1,1 +1,16 @@
-bsf.o
+# these can only be used with untracked file
+
+#libb.a
+
+#*.a
+
+#*.[ao]
+
+sample.txt
+
+#/sample.txt
+
+# subDir/
+
+# lib?.a
+
